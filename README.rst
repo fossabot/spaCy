@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fscioatael%2FspaCy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fscioatael%2FspaCy?ref=badge_shield)
+
 spaCy: Industrial-strength NLP
 ******************************
 
@@ -330,3 +332,7 @@ that directory. Don't forget to also install the test utilities via spaCy's
 
 See `the documentation <https://spacy.io/usage/#tests>`_ for more details and
 examples.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fscioatael%2FspaCy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fscioatael%2FspaCy?ref=badge_large)
